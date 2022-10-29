@@ -1,17 +1,16 @@
 .body{
-    background-color: black;
+    background-color: white;
 }
 .container{
     width: 500px;
-    
-}
+    }
 .img{
     width: 500px;
 }
-.flex-container{
+.encabezado{
     display:flex;
     flex-direction:row;
 }
-*{
-    margin:red;
+.fa-regular fa-bookmar{
+    align-items: flex-end;
 }
