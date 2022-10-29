@@ -1,0 +1,17 @@
+.body{
+    background-color: black;
+}
+.container{
+    width: 500px;
+    
+}
+.img{
+    width: 500px;
+}
+.flex-container{
+    display:flex;
+    flex-direction:row;
+}
+*{
+    margin:red;
+}
