@@ -1,8 +1,9 @@
 .body{
-    background-color: white;
+    background-color: black;
 }
 .container{
     width: 500px;
+    background-color: white;
     }
 .img{
     width: 500px;
@@ -13,4 +14,7 @@
 }
 .fa-regular fa-bookmar{
     align-items: flex-end;
+}
+.img{
+    margin:black;
 }
